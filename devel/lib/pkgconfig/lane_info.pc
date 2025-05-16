@@ -1,0 +1,8 @@
+prefix=/home/minuk/carla_ws/devel
+
+Name: lane_info
+Description: Description of lane_info
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

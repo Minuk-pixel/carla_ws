@@ -1,0 +1,8 @@
+prefix=/home/minuk/carla_ws/install
+
+Name: lane_ros
+Description: Description of lane_ros
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
